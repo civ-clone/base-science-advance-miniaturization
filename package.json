@@ -13,7 +13,8 @@
   "files": [
     "Miniaturization.js",
     "Miniaturization.d.ts",
-    "Miniaturization.js.map"
+    "Miniaturization.js.map",
+    "Miniaturization.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
